@@ -4,6 +4,11 @@ review problems for math contests by allowing them to see ratings for each math 
 
 currently under development. will be tested with semicolon math (https://scmath.herokuapp.com)
 
+# Mirrors
+- https://github.com/bkf2020/screview
+- https://gitlab.com/bkf2020/screview
+- https://codeberg.org/bkf2020/screview
+
 # LICENSE
 Licensed under the GNU Affero General Public License v3.0.
 
